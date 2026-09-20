@@ -36,7 +36,8 @@ export async function GET(request: NextRequest) {
     if (!line) throw new Error('No tide day');
     const local = new Date(at.getTime() + JST);
     const hour = local.getUTCHours(), fraction = local.getUTCMinutes() / 60;
-    const current = line.hours[hour], next = line.hours[(hour + 1) % 24];
+    const tomorrow = lines.map(x => parseLine(x, new Date(at.getTime() + 86400000))).find(Boolean);
+    const current = line.hours[hour], next = hour === 23 ? (tomorrow?.hours[0] ?? NaN) : line.hours[hour + 1];
     const height_cm = Number.isFinite(current) && Number.isFinite(next) ? Math.round(current + (next - current) * fraction) : null;
     const slope = next - current;
     const state = !Number.isFinite(slope) ? null : Math.abs(slope) < 2 ? 'slack' : slope > 0 ? 'rising' : 'falling';
