@@ -2,6 +2,15 @@
 
 釣れた瞬間を、データにする。スマートフォンを優先した、自分だけの釣果記録アプリです。
 
+## 公開環境
+
+- アプリ: https://fish-log-psi.vercel.app
+- データ・ログイン・写真: SupabaseのFISH LOG専用プロジェクト（東京リージョン）
+- ログイン: アプリ画面でメールアドレスを入力し、届いたリンクを開きます。釣果、釣行、釣り場、写真はログインした本人のみ閲覧できます。
+- GitHubにはSupabaseの公開用接続設定を含む実際の環境変数や、データベースのパスワードを保存していません。Vercelの環境変数はProduction、Preview、Developmentに設定済みです。
+
+本番ではSupabaseに接続します。環境変数がないローカル開発時だけ、画面に「デモモード」と表示してブラウザ内に保存します。
+
 ## はじめる
 
 ```bash
@@ -30,9 +39,9 @@ npm run dev
 | フェーズ | 主な実装 | 主なファイル | 検証 | 残る確認 |
 |---|---|---|---|---|
 | ① 基盤・PWA・Auth | Next.js App Router、TypeScript、Tailwind、モバイルナビ、Magic Link、デモモード、manifest、Service Worker | `src/app/layout.tsx`, `src/components/Shell.tsx`, `src/lib/store.tsx`, `public/` | 型・lint・ビルド、デスクトップと390px表示 | 実機インストールとSupabaseメール認証 |
-| ② DB・RLS・Storage | 個人別RLS、所有者が一致する関連付け、private写真、サイズと形式の制限 | `supabase/migrations/202609200001_init.sql` | SQLレビュー | Supabaseプロジェクトでのmigration適用と複数ユーザー検証 |
-| ③ Home・釣果 | CTA押下時刻の確定、クイック登録、一覧・検索・詳細、写真 | `src/app/page.tsx`, `src/app/catch/new/page.tsx`, `src/app/catches/` | デモで登録→一覧反映 | 本番Storageへの写真アップロード |
-| ④ 釣行・カレンダー | 釣行開始と終了、0匹の「ボウズ」保存、日別表示 | `src/app/sessions/`, `src/app/calendar/` | デモで0匹終了→ボウズ表示 | Supabaseでの永続化 |
+| ② DB・RLS・Storage | 個人別RLS、所有者が一致する関連付け、private写真、サイズと形式の制限 | `supabase/migrations/202609200001_init.sql`, `supabase/config.toml` | 本番migration適用、2ユーザーで分離・写真の非公開を確認 | 利用者自身によるログイン確認 |
+| ③ Home・釣果 | CTA押下時刻の確定、クイック登録、一覧・検索・詳細、写真 | `src/app/page.tsx`, `src/app/catch/new/page.tsx`, `src/app/catches/` | デモで登録→一覧反映、本番private Storageへの一時ユーザーによる写真アップロード | 利用者自身の写真登録 |
+| ④ 釣行・カレンダー | 釣行開始と終了、0匹の「ボウズ」保存、日別表示 | `src/app/sessions/`, `src/app/calendar/` | デモで0匹終了→ボウズ表示、本番DBへの書き込み権限を確認 | 利用者自身の釣行登録 |
 | ⑤ 月・天気・潮 | GPS、登録釣り場判定、気象庁239地点から最寄り選択、潮位補間、月齢近似、Open-Meteo | `src/lib/geo.ts`, `src/lib/moon.ts`, `src/lib/providers.ts`, `src/app/api/` | 東京の潮位・天気APIを実リクエストで確認 | 他の観測地点と年境界の追加検証 |
 | ⑥ 分析 | 時間帯、魚種、潮別の過去記録集計。因果を断定しない文言 | `src/app/analysis/` | ビルド・画面表示 | 記録量が多い場合の使用感 |
 | ⑦ レスポンシブ・エラー | iPhone幅の配置、取得失敗時も釣果保存、保存エラー表示、PWAアイコン | `src/app/globals.css`, `public/` | 390px表示、位置取得失敗下の釣果保存 | iPhone Safari実機とオフライン動作 |
