@@ -1,0 +1,1436 @@
+[
+  {
+    "code": "WN",
+    "name": "稚内",
+    "latitude": 45.4,
+    "longitude": 141.68333333333334
+  },
+  {
+    "code": "KE",
+    "name": "枝幸",
+    "latitude": 44.93333333333333,
+    "longitude": 142.58333333333334
+  },
+  {
+    "code": "A0",
+    "name": "紋別",
+    "latitude": 44.35,
+    "longitude": 143.36666666666667
+  },
+  {
+    "code": "AS",
+    "name": "網走",
+    "latitude": 44.016666666666666,
+    "longitude": 144.28333333333333
+  },
+  {
+    "code": "A6",
+    "name": "羅臼",
+    "latitude": 44.016666666666666,
+    "longitude": 145.2
+  },
+  {
+    "code": "NM",
+    "name": "根室",
+    "latitude": 43.35,
+    "longitude": 145.58333333333334
+  },
+  {
+    "code": "HN",
+    "name": "花咲",
+    "latitude": 43.28333333333333,
+    "longitude": 145.56666666666666
+  },
+  {
+    "code": "KP",
+    "name": "霧多布",
+    "latitude": 43.083333333333336,
+    "longitude": 145.11666666666667
+  },
+  {
+    "code": "KR",
+    "name": "釧路",
+    "latitude": 42.983333333333334,
+    "longitude": 144.36666666666667
+  },
+  {
+    "code": "B1",
+    "name": "十勝",
+    "latitude": 42.3,
+    "longitude": 143.31666666666666
+  },
+  {
+    "code": "A9",
+    "name": "浦河",
+    "latitude": 42.166666666666664,
+    "longitude": 142.76666666666668
+  },
+  {
+    "code": "C8",
+    "name": "苫小牧東",
+    "latitude": 42.6,
+    "longitude": 141.81666666666666
+  },
+  {
+    "code": "TM",
+    "name": "苫小牧西",
+    "latitude": 42.63333333333333,
+    "longitude": 141.61666666666667
+  },
+  {
+    "code": "SO",
+    "name": "白老",
+    "latitude": 42.516666666666666,
+    "longitude": 141.31666666666666
+  },
+  {
+    "code": "A8",
+    "name": "室蘭",
+    "latitude": 42.35,
+    "longitude": 140.95
+  },
+  {
+    "code": "A3",
+    "name": "森",
+    "latitude": 42.11666666666667,
+    "longitude": 140.6
+  },
+  {
+    "code": "HK",
+    "name": "函館",
+    "latitude": 41.78333333333333,
+    "longitude": 140.71666666666667
+  },
+  {
+    "code": "Q0",
+    "name": "吉岡",
+    "latitude": 41.45,
+    "longitude": 140.23333333333332
+  },
+  {
+    "code": "A5",
+    "name": "松前",
+    "latitude": 41.416666666666664,
+    "longitude": 140.1
+  },
+  {
+    "code": "ES",
+    "name": "江差",
+    "latitude": 41.86666666666667,
+    "longitude": 140.13333333333333
+  },
+  {
+    "code": "ZP",
+    "name": "奥尻",
+    "latitude": 42.083333333333336,
+    "longitude": 139.48333333333332
+  },
+  {
+    "code": "OR",
+    "name": "奥尻港",
+    "latitude": 42.166666666666664,
+    "longitude": 139.51666666666668
+  },
+  {
+    "code": "SE",
+    "name": "瀬棚",
+    "latitude": 42.45,
+    "longitude": 139.85
+  },
+  {
+    "code": "B6",
+    "name": "寿都",
+    "latitude": 42.8,
+    "longitude": 140.23333333333332
+  },
+  {
+    "code": "B5",
+    "name": "岩内",
+    "latitude": 42.983333333333334,
+    "longitude": 140.5
+  },
+  {
+    "code": "Z8",
+    "name": "忍路",
+    "latitude": 43.21666666666667,
+    "longitude": 140.86666666666667
+  },
+  {
+    "code": "B3",
+    "name": "小樽",
+    "latitude": 43.2,
+    "longitude": 141
+  },
+  {
+    "code": "IK",
+    "name": "石狩新港",
+    "latitude": 43.21666666666667,
+    "longitude": 141.3
+  },
+  {
+    "code": "B2",
+    "name": "留萌",
+    "latitude": 43.95,
+    "longitude": 141.63333333333333
+  },
+  {
+    "code": "F3",
+    "name": "沓形",
+    "latitude": 45.18333333333333,
+    "longitude": 141.13333333333333
+  },
+  {
+    "code": "Q1",
+    "name": "竜飛",
+    "latitude": 41.25,
+    "longitude": 140.38333333333333
+  },
+  {
+    "code": "AO",
+    "name": "青森",
+    "latitude": 40.833333333333336,
+    "longitude": 140.76666666666668
+  },
+  {
+    "code": "ZA",
+    "name": "浅虫",
+    "latitude": 40.9,
+    "longitude": 140.86666666666667
+  },
+  {
+    "code": "Q2",
+    "name": "大湊",
+    "latitude": 41.25,
+    "longitude": 141.15
+  },
+  {
+    "code": "B4",
+    "name": "大間",
+    "latitude": 41.53333333333333,
+    "longitude": 140.9
+  },
+  {
+    "code": "SH",
+    "name": "下北",
+    "latitude": 41.36666666666667,
+    "longitude": 141.23333333333332
+  },
+  {
+    "code": "XS",
+    "name": "むつ小川原",
+    "latitude": 40.93333333333333,
+    "longitude": 141.38333333333333
+  },
+  {
+    "code": "HG",
+    "name": "八戸港",
+    "latitude": 40.53333333333333,
+    "longitude": 141.55
+  },
+  {
+    "code": "XT",
+    "name": "久慈",
+    "latitude": 40.2,
+    "longitude": 141.8
+  },
+  {
+    "code": "MY",
+    "name": "宮古",
+    "latitude": 39.65,
+    "longitude": 141.98333333333332
+  },
+  {
+    "code": "Q6",
+    "name": "釜石",
+    "latitude": 39.266666666666666,
+    "longitude": 141.88333333333333
+  },
+  {
+    "code": "OF",
+    "name": "大船渡",
+    "latitude": 39.016666666666666,
+    "longitude": 141.75
+  },
+  {
+    "code": "AY",
+    "name": "鮎川",
+    "latitude": 38.3,
+    "longitude": 141.5
+  },
+  {
+    "code": "E6",
+    "name": "石巻",
+    "latitude": 38.4,
+    "longitude": 141.26666666666668
+  },
+  {
+    "code": "SG",
+    "name": "塩釜",
+    "latitude": 38.31666666666667,
+    "longitude": 141.03333333333333
+  },
+  {
+    "code": "SD",
+    "name": "仙台新港",
+    "latitude": 38.266666666666666,
+    "longitude": 141
+  },
+  {
+    "code": "ZM",
+    "name": "相馬",
+    "latitude": 37.833333333333336,
+    "longitude": 140.96666666666667
+  },
+  {
+    "code": "ON",
+    "name": "小名浜",
+    "latitude": 36.93333333333333,
+    "longitude": 140.9
+  },
+  {
+    "code": "D1",
+    "name": "日立",
+    "latitude": 36.5,
+    "longitude": 140.63333333333333
+  },
+  {
+    "code": "D3",
+    "name": "大洗",
+    "latitude": 36.3,
+    "longitude": 140.56666666666666
+  },
+  {
+    "code": "D2",
+    "name": "鹿島",
+    "latitude": 35.93333333333333,
+    "longitude": 140.7
+  },
+  {
+    "code": "CS",
+    "name": "銚子漁港",
+    "latitude": 35.75,
+    "longitude": 140.86666666666667
+  },
+  {
+    "code": "ZF",
+    "name": "勝浦",
+    "latitude": 35.13333333333333,
+    "longitude": 140.25
+  },
+  {
+    "code": "MR",
+    "name": "布良",
+    "latitude": 34.916666666666664,
+    "longitude": 139.83333333333334
+  },
+  {
+    "code": "TT",
+    "name": "館山",
+    "latitude": 34.983333333333334,
+    "longitude": 139.85
+  },
+  {
+    "code": "KZ",
+    "name": "木更津",
+    "latitude": 35.36666666666667,
+    "longitude": 139.91666666666666
+  },
+  {
+    "code": "QL",
+    "name": "千葉",
+    "latitude": 35.56666666666667,
+    "longitude": 140.05
+  },
+  {
+    "code": "CB",
+    "name": "千葉港",
+    "latitude": 35.6,
+    "longitude": 140.1
+  },
+  {
+    "code": "TK",
+    "name": "東京",
+    "latitude": 35.65,
+    "longitude": 139.76666666666668
+  },
+  {
+    "code": "KW",
+    "name": "川崎",
+    "latitude": 35.516666666666666,
+    "longitude": 139.75
+  },
+  {
+    "code": "YK",
+    "name": "京浜港",
+    "latitude": 35.46666666666667,
+    "longitude": 139.63333333333333
+  },
+  {
+    "code": "QS",
+    "name": "横浜",
+    "latitude": 35.45,
+    "longitude": 139.65
+  },
+  {
+    "code": "HM",
+    "name": "本牧",
+    "latitude": 35.43333333333333,
+    "longitude": 139.66666666666666
+  },
+  {
+    "code": "QN",
+    "name": "横須賀",
+    "latitude": 35.28333333333333,
+    "longitude": 139.65
+  },
+  {
+    "code": "Z1",
+    "name": "油壺",
+    "latitude": 35.166666666666664,
+    "longitude": 139.61666666666667
+  },
+  {
+    "code": "OK",
+    "name": "岡田",
+    "latitude": 34.78333333333333,
+    "longitude": 139.38333333333333
+  },
+  {
+    "code": "QO",
+    "name": "神津島",
+    "latitude": 34.21666666666667,
+    "longitude": 139.13333333333333
+  },
+  {
+    "code": "MJ",
+    "name": "三宅島（坪田）",
+    "latitude": 34.05,
+    "longitude": 139.55
+  },
+  {
+    "code": "QP",
+    "name": "三宅島（阿古）",
+    "latitude": 34.06666666666667,
+    "longitude": 139.48333333333332
+  },
+  {
+    "code": "D4",
+    "name": "八丈島（八重根）",
+    "latitude": 33.1,
+    "longitude": 139.76666666666668
+  },
+  {
+    "code": "QQ",
+    "name": "八丈島（神湊）",
+    "latitude": 33.13333333333333,
+    "longitude": 139.8
+  },
+  {
+    "code": "CC",
+    "name": "父島",
+    "latitude": 27.1,
+    "longitude": 142.2
+  },
+  {
+    "code": "MC",
+    "name": "南鳥島",
+    "latitude": 24.283333333333335,
+    "longitude": 153.98333333333332
+  },
+  {
+    "code": "D8",
+    "name": "湘南港",
+    "latitude": 35.3,
+    "longitude": 139.48333333333332
+  },
+  {
+    "code": "OD",
+    "name": "小田原",
+    "latitude": 35.233333333333334,
+    "longitude": 139.15
+  },
+  {
+    "code": "Z3",
+    "name": "伊東",
+    "latitude": 34.9,
+    "longitude": 139.13333333333333
+  },
+  {
+    "code": "D6",
+    "name": "下田",
+    "latitude": 34.68333333333333,
+    "longitude": 138.96666666666667
+  },
+  {
+    "code": "QK",
+    "name": "南伊豆",
+    "latitude": 34.63333333333333,
+    "longitude": 138.88333333333333
+  },
+  {
+    "code": "G9",
+    "name": "石廊崎",
+    "latitude": 34.61666666666667,
+    "longitude": 138.85
+  },
+  {
+    "code": "Z4",
+    "name": "田子",
+    "latitude": 34.8,
+    "longitude": 138.76666666666668
+  },
+  {
+    "code": "UC",
+    "name": "内浦",
+    "latitude": 35.016666666666666,
+    "longitude": 138.88333333333333
+  },
+  {
+    "code": "SM",
+    "name": "清水港",
+    "latitude": 35.016666666666666,
+    "longitude": 138.51666666666668
+  },
+  {
+    "code": "Z5",
+    "name": "焼津",
+    "latitude": 34.86666666666667,
+    "longitude": 138.33333333333334
+  },
+  {
+    "code": "OM",
+    "name": "御前崎",
+    "latitude": 34.61666666666667,
+    "longitude": 138.21666666666667
+  },
+  {
+    "code": "MI",
+    "name": "舞阪",
+    "latitude": 34.68333333333333,
+    "longitude": 137.61666666666667
+  },
+  {
+    "code": "I4",
+    "name": "赤羽根",
+    "latitude": 34.6,
+    "longitude": 137.18333333333334
+  },
+  {
+    "code": "G4",
+    "name": "三河",
+    "latitude": 34.733333333333334,
+    "longitude": 137.31666666666666
+  },
+  {
+    "code": "G5",
+    "name": "形原",
+    "latitude": 34.78333333333333,
+    "longitude": 137.18333333333334
+  },
+  {
+    "code": "G8",
+    "name": "衣浦",
+    "latitude": 34.88333333333333,
+    "longitude": 136.95
+  },
+  {
+    "code": "ZD",
+    "name": "鬼崎",
+    "latitude": 34.9,
+    "longitude": 136.81666666666666
+  },
+  {
+    "code": "NG",
+    "name": "名古屋",
+    "latitude": 35.083333333333336,
+    "longitude": 136.88333333333333
+  },
+  {
+    "code": "G3",
+    "name": "四日市港",
+    "latitude": 34.96666666666667,
+    "longitude": 136.63333333333333
+  },
+  {
+    "code": "TB",
+    "name": "鳥羽",
+    "latitude": 34.483333333333334,
+    "longitude": 136.81666666666666
+  },
+  {
+    "code": "OW",
+    "name": "尾鷲",
+    "latitude": 34.083333333333336,
+    "longitude": 136.2
+  },
+  {
+    "code": "KN",
+    "name": "熊野",
+    "latitude": 33.93333333333333,
+    "longitude": 136.16666666666666
+  },
+  {
+    "code": "UR",
+    "name": "浦神",
+    "latitude": 33.56666666666667,
+    "longitude": 135.9
+  },
+  {
+    "code": "KS",
+    "name": "串本",
+    "latitude": 33.483333333333334,
+    "longitude": 135.76666666666668
+  },
+  {
+    "code": "SR",
+    "name": "白浜",
+    "latitude": 33.68333333333333,
+    "longitude": 135.38333333333333
+  },
+  {
+    "code": "GB",
+    "name": "御坊",
+    "latitude": 33.85,
+    "longitude": 135.16666666666666
+  },
+  {
+    "code": "H1",
+    "name": "下津",
+    "latitude": 34.11666666666667,
+    "longitude": 135.13333333333333
+  },
+  {
+    "code": "Z9",
+    "name": "海南",
+    "latitude": 34.15,
+    "longitude": 135.2
+  },
+  {
+    "code": "WY",
+    "name": "和歌山",
+    "latitude": 34.21666666666667,
+    "longitude": 135.15
+  },
+  {
+    "code": "TN",
+    "name": "淡輪",
+    "latitude": 34.333333333333336,
+    "longitude": 135.18333333333334
+  },
+  {
+    "code": "KK",
+    "name": "関空島",
+    "latitude": 34.43333333333333,
+    "longitude": 135.2
+  },
+  {
+    "code": "J2",
+    "name": "岸和田",
+    "latitude": 34.46666666666667,
+    "longitude": 135.36666666666667
+  },
+  {
+    "code": "IO",
+    "name": "泉大津",
+    "latitude": 34.516666666666666,
+    "longitude": 135.4
+  },
+  {
+    "code": "SI",
+    "name": "堺",
+    "latitude": 34.6,
+    "longitude": 135.46666666666667
+  },
+  {
+    "code": "OS",
+    "name": "大阪",
+    "latitude": 34.65,
+    "longitude": 135.43333333333334
+  },
+  {
+    "code": "AM",
+    "name": "尼崎",
+    "latitude": 34.7,
+    "longitude": 135.4
+  },
+  {
+    "code": "J5",
+    "name": "西宮",
+    "latitude": 34.71666666666667,
+    "longitude": 135.33333333333334
+  },
+  {
+    "code": "KB",
+    "name": "神戸",
+    "latitude": 34.68333333333333,
+    "longitude": 135.18333333333334
+  },
+  {
+    "code": "AK",
+    "name": "明石",
+    "latitude": 34.65,
+    "longitude": 134.98333333333332
+  },
+  {
+    "code": "ST",
+    "name": "洲本",
+    "latitude": 34.35,
+    "longitude": 134.9
+  },
+  {
+    "code": "EI",
+    "name": "江井",
+    "latitude": 34.46666666666667,
+    "longitude": 134.83333333333334
+  },
+  {
+    "code": "K1",
+    "name": "姫路（飾磨）",
+    "latitude": 34.78333333333333,
+    "longitude": 134.66666666666666
+  },
+  {
+    "code": "SB",
+    "name": "三蟠",
+    "latitude": 34.6,
+    "longitude": 133.98333333333332
+  },
+  {
+    "code": "UN",
+    "name": "宇野",
+    "latitude": 34.483333333333334,
+    "longitude": 133.95
+  },
+  {
+    "code": "MM",
+    "name": "水島",
+    "latitude": 34.53333333333333,
+    "longitude": 133.73333333333332
+  },
+  {
+    "code": "LG",
+    "name": "乙島",
+    "latitude": 34.5,
+    "longitude": 133.68333333333334
+  },
+  {
+    "code": "IZ",
+    "name": "糸崎",
+    "latitude": 34.4,
+    "longitude": 133.08333333333334
+  },
+  {
+    "code": "TH",
+    "name": "竹原",
+    "latitude": 34.333333333333336,
+    "longitude": 132.91666666666666
+  },
+  {
+    "code": "Q9",
+    "name": "呉",
+    "latitude": 34.233333333333334,
+    "longitude": 132.55
+  },
+  {
+    "code": "Q8",
+    "name": "広島",
+    "latitude": 34.35,
+    "longitude": 132.46666666666667
+  },
+  {
+    "code": "QA",
+    "name": "徳山",
+    "latitude": 34.03333333333333,
+    "longitude": 131.8
+  },
+  {
+    "code": "J9",
+    "name": "三田尻",
+    "latitude": 34.03333333333333,
+    "longitude": 131.58333333333334
+  },
+  {
+    "code": "WH",
+    "name": "宇部",
+    "latitude": 33.93333333333333,
+    "longitude": 131.25
+  },
+  {
+    "code": "CF",
+    "name": "長府",
+    "latitude": 34.016666666666666,
+    "longitude": 131
+  },
+  {
+    "code": "A1",
+    "name": "弟子待",
+    "latitude": 33.93333333333333,
+    "longitude": 130.93333333333334
+  },
+  {
+    "code": "TI",
+    "name": "田ノ首",
+    "latitude": 33.916666666666664,
+    "longitude": 130.91666666666666
+  },
+  {
+    "code": "OH",
+    "name": "大山の鼻",
+    "latitude": 33.916666666666664,
+    "longitude": 130.9
+  },
+  {
+    "code": "HR",
+    "name": "南風泊",
+    "latitude": 33.95,
+    "longitude": 130.88333333333333
+  },
+  {
+    "code": "MT",
+    "name": "松山",
+    "latitude": 33.86666666666667,
+    "longitude": 132.71666666666667
+  },
+  {
+    "code": "M3",
+    "name": "波止浜",
+    "latitude": 34.1,
+    "longitude": 132.93333333333334
+  },
+  {
+    "code": "M0",
+    "name": "今治市小島",
+    "latitude": 34.13333333333333,
+    "longitude": 132.98333333333332
+  },
+  {
+    "code": "M1",
+    "name": "来島航路",
+    "latitude": 34.11666666666667,
+    "longitude": 132.98333333333332
+  },
+  {
+    "code": "L0",
+    "name": "今治",
+    "latitude": 34.06666666666667,
+    "longitude": 133
+  },
+  {
+    "code": "NI",
+    "name": "新居浜",
+    "latitude": 33.96666666666667,
+    "longitude": 133.26666666666668
+  },
+  {
+    "code": "L8",
+    "name": "伊予三島",
+    "latitude": 33.983333333333334,
+    "longitude": 133.55
+  },
+  {
+    "code": "TX",
+    "name": "多度津",
+    "latitude": 34.28333333333333,
+    "longitude": 133.75
+  },
+  {
+    "code": "AX",
+    "name": "青木",
+    "latitude": 34.36666666666667,
+    "longitude": 133.68333333333334
+  },
+  {
+    "code": "J8",
+    "name": "与島",
+    "latitude": 34.38333333333333,
+    "longitude": 133.81666666666666
+  },
+  {
+    "code": "TA",
+    "name": "高松",
+    "latitude": 34.35,
+    "longitude": 134.05
+  },
+  {
+    "code": "KM",
+    "name": "小松島",
+    "latitude": 34.016666666666666,
+    "longitude": 134.58333333333334
+  },
+  {
+    "code": "J6",
+    "name": "橘",
+    "latitude": 33.86666666666667,
+    "longitude": 134.63333333333333
+  },
+  {
+    "code": "AW",
+    "name": "阿波由岐",
+    "latitude": 33.766666666666666,
+    "longitude": 134.6
+  },
+  {
+    "code": "HW",
+    "name": "日和佐",
+    "latitude": 33.71666666666667,
+    "longitude": 134.55
+  },
+  {
+    "code": "L7",
+    "name": "甲浦",
+    "latitude": 33.55,
+    "longitude": 134.3
+  },
+  {
+    "code": "MU",
+    "name": "室戸岬",
+    "latitude": 33.266666666666666,
+    "longitude": 134.16666666666666
+  },
+  {
+    "code": "KC",
+    "name": "高知",
+    "latitude": 33.5,
+    "longitude": 133.56666666666666
+  },
+  {
+    "code": "V7",
+    "name": "須崎",
+    "latitude": 33.38333333333333,
+    "longitude": 133.3
+  },
+  {
+    "code": "ZH",
+    "name": "久礼",
+    "latitude": 33.333333333333336,
+    "longitude": 133.25
+  },
+  {
+    "code": "L6",
+    "name": "高知下田",
+    "latitude": 32.93333333333333,
+    "longitude": 133
+  },
+  {
+    "code": "TS",
+    "name": "土佐清水",
+    "latitude": 32.78333333333333,
+    "longitude": 132.96666666666667
+  },
+  {
+    "code": "SU",
+    "name": "片島",
+    "latitude": 32.916666666666664,
+    "longitude": 132.7
+  },
+  {
+    "code": "UW",
+    "name": "宇和島",
+    "latitude": 33.233333333333334,
+    "longitude": 132.55
+  },
+  {
+    "code": "N1",
+    "name": "日明",
+    "latitude": 33.916666666666664,
+    "longitude": 130.88333333333333
+  },
+  {
+    "code": "N0",
+    "name": "砂津",
+    "latitude": 33.9,
+    "longitude": 130.88333333333333
+  },
+  {
+    "code": "MO",
+    "name": "門司",
+    "latitude": 33.95,
+    "longitude": 130.95
+  },
+  {
+    "code": "AH",
+    "name": "青浜",
+    "latitude": 33.95,
+    "longitude": 131.01666666666668
+  },
+  {
+    "code": "O3",
+    "name": "苅田",
+    "latitude": 33.8,
+    "longitude": 131
+  },
+  {
+    "code": "BP",
+    "name": "別府",
+    "latitude": 33.3,
+    "longitude": 131.5
+  },
+  {
+    "code": "QC",
+    "name": "大分",
+    "latitude": 33.266666666666666,
+    "longitude": 131.68333333333334
+  },
+  {
+    "code": "X5",
+    "name": "佐伯",
+    "latitude": 32.95,
+    "longitude": 131.96666666666667
+  },
+  {
+    "code": "Z6",
+    "name": "細島",
+    "latitude": 32.43333333333333,
+    "longitude": 131.66666666666666
+  },
+  {
+    "code": "MG",
+    "name": "宮崎",
+    "latitude": 31.9,
+    "longitude": 131.45
+  },
+  {
+    "code": "AB",
+    "name": "油津",
+    "latitude": 31.583333333333332,
+    "longitude": 131.41666666666666
+  },
+  {
+    "code": "X6",
+    "name": "志布志",
+    "latitude": 31.483333333333334,
+    "longitude": 131.11666666666667
+  },
+  {
+    "code": "QG",
+    "name": "大泊",
+    "latitude": 31.016666666666666,
+    "longitude": 130.68333333333334
+  },
+  {
+    "code": "KG",
+    "name": "鹿児島",
+    "latitude": 31.6,
+    "longitude": 130.56666666666666
+  },
+  {
+    "code": "MK",
+    "name": "枕崎",
+    "latitude": 31.266666666666666,
+    "longitude": 130.3
+  },
+  {
+    "code": "ZJ",
+    "name": "阿久根",
+    "latitude": 32.016666666666666,
+    "longitude": 130.18333333333334
+  },
+  {
+    "code": "QH",
+    "name": "西之表",
+    "latitude": 30.733333333333334,
+    "longitude": 131
+  },
+  {
+    "code": "TJ",
+    "name": "種子島",
+    "latitude": 30.466666666666665,
+    "longitude": 130.96666666666667
+  },
+  {
+    "code": "QI",
+    "name": "中之島",
+    "latitude": 29.85,
+    "longitude": 129.85
+  },
+  {
+    "code": "QJ",
+    "name": "名瀬",
+    "latitude": 28.4,
+    "longitude": 129.5
+  },
+  {
+    "code": "O9",
+    "name": "奄美",
+    "latitude": 28.316666666666666,
+    "longitude": 129.53333333333333
+  },
+  {
+    "code": "NK",
+    "name": "中城湾港",
+    "latitude": 26.333333333333332,
+    "longitude": 127.83333333333333
+  },
+  {
+    "code": "ZO",
+    "name": "沖縄",
+    "latitude": 26.183333333333334,
+    "longitude": 127.81666666666666
+  },
+  {
+    "code": "NH",
+    "name": "那覇",
+    "latitude": 26.216666666666665,
+    "longitude": 127.66666666666667
+  },
+  {
+    "code": "DJ",
+    "name": "南大東",
+    "latitude": 25.866666666666667,
+    "longitude": 131.23333333333332
+  },
+  {
+    "code": "R1",
+    "name": "平良",
+    "latitude": 24.816666666666666,
+    "longitude": 125.28333333333333
+  },
+  {
+    "code": "IS",
+    "name": "石垣",
+    "latitude": 24.333333333333332,
+    "longitude": 124.16666666666667
+  },
+  {
+    "code": "IJ",
+    "name": "西表",
+    "latitude": 24.35,
+    "longitude": 123.75
+  },
+  {
+    "code": "YJ",
+    "name": "与那国",
+    "latitude": 24.45,
+    "longitude": 122.95
+  },
+  {
+    "code": "O7",
+    "name": "水俣",
+    "latitude": 32.2,
+    "longitude": 130.36666666666667
+  },
+  {
+    "code": "O5",
+    "name": "八代",
+    "latitude": 32.516666666666666,
+    "longitude": 130.56666666666666
+  },
+  {
+    "code": "HS",
+    "name": "本渡瀬戸",
+    "latitude": 32.43333333333333,
+    "longitude": 130.21666666666667
+  },
+  {
+    "code": "RH",
+    "name": "苓北",
+    "latitude": 32.46666666666667,
+    "longitude": 130.03333333333333
+  },
+  {
+    "code": "MS",
+    "name": "三角",
+    "latitude": 32.61666666666667,
+    "longitude": 130.45
+  },
+  {
+    "code": "KU",
+    "name": "熊本",
+    "latitude": 32.75,
+    "longitude": 130.56666666666666
+  },
+  {
+    "code": "O6",
+    "name": "大牟田",
+    "latitude": 33.016666666666666,
+    "longitude": 130.41666666666666
+  },
+  {
+    "code": "OU",
+    "name": "大浦",
+    "latitude": 32.983333333333334,
+    "longitude": 130.21666666666667
+  },
+  {
+    "code": "KT",
+    "name": "口之津",
+    "latitude": 32.6,
+    "longitude": 130.2
+  },
+  {
+    "code": "NS",
+    "name": "長崎",
+    "latitude": 32.733333333333334,
+    "longitude": 129.86666666666667
+  },
+  {
+    "code": "KO",
+    "name": "皇后",
+    "latitude": 32.71666666666667,
+    "longitude": 129.83333333333334
+  },
+  {
+    "code": "FE",
+    "name": "福江",
+    "latitude": 32.7,
+    "longitude": 128.85
+  },
+  {
+    "code": "QD",
+    "name": "佐世保",
+    "latitude": 33.15,
+    "longitude": 129.71666666666667
+  },
+  {
+    "code": "X2",
+    "name": "平戸瀬戸",
+    "latitude": 33.36666666666667,
+    "longitude": 129.58333333333334
+  },
+  {
+    "code": "ZL",
+    "name": "仮屋",
+    "latitude": 33.46666666666667,
+    "longitude": 129.85
+  },
+  {
+    "code": "KA",
+    "name": "唐津",
+    "latitude": 33.46666666666667,
+    "longitude": 129.96666666666667
+  },
+  {
+    "code": "QF",
+    "name": "博多",
+    "latitude": 33.61666666666667,
+    "longitude": 130.4
+  },
+  {
+    "code": "X3",
+    "name": "郷ノ浦",
+    "latitude": 33.75,
+    "longitude": 129.68333333333334
+  },
+  {
+    "code": "QE",
+    "name": "厳原",
+    "latitude": 34.2,
+    "longitude": 129.3
+  },
+  {
+    "code": "O1",
+    "name": "対馬",
+    "latitude": 34.266666666666666,
+    "longitude": 129.31666666666666
+  },
+  {
+    "code": "N5",
+    "name": "対馬比田勝",
+    "latitude": 34.65,
+    "longitude": 129.48333333333332
+  },
+  {
+    "code": "K5",
+    "name": "萩",
+    "latitude": 34.43333333333333,
+    "longitude": 131.41666666666666
+  },
+  {
+    "code": "ZK",
+    "name": "須佐",
+    "latitude": 34.63333333333333,
+    "longitude": 131.6
+  },
+  {
+    "code": "HA",
+    "name": "浜田",
+    "latitude": 34.9,
+    "longitude": 132.06666666666666
+  },
+  {
+    "code": "SK",
+    "name": "境",
+    "latitude": 35.55,
+    "longitude": 133.25
+  },
+  {
+    "code": "SA",
+    "name": "西郷",
+    "latitude": 36.2,
+    "longitude": 133.33333333333334
+  },
+  {
+    "code": "ZE",
+    "name": "田後",
+    "latitude": 35.6,
+    "longitude": 134.31666666666666
+  },
+  {
+    "code": "T6",
+    "name": "津居山",
+    "latitude": 35.65,
+    "longitude": 134.83333333333334
+  },
+  {
+    "code": "T2",
+    "name": "宮津",
+    "latitude": 35.53333333333333,
+    "longitude": 135.2
+  },
+  {
+    "code": "MZ",
+    "name": "舞鶴",
+    "latitude": 35.483333333333334,
+    "longitude": 135.38333333333333
+  },
+  {
+    "code": "XM",
+    "name": "敦賀",
+    "latitude": 35.666666666666664,
+    "longitude": 136.06666666666666
+  },
+  {
+    "code": "ZG",
+    "name": "三国",
+    "latitude": 36.25,
+    "longitude": 136.15
+  },
+  {
+    "code": "T1",
+    "name": "金沢",
+    "latitude": 36.61666666666667,
+    "longitude": 136.6
+  },
+  {
+    "code": "Z7",
+    "name": "輪島",
+    "latitude": 37.4,
+    "longitude": 136.9
+  },
+  {
+    "code": "SZ",
+    "name": "能登",
+    "latitude": 37.5,
+    "longitude": 137.15
+  },
+  {
+    "code": "XO",
+    "name": "七尾",
+    "latitude": 37.05,
+    "longitude": 136.96666666666667
+  },
+  {
+    "code": "XQ",
+    "name": "伏木富山",
+    "latitude": 36.8,
+    "longitude": 137.06666666666666
+  },
+  {
+    "code": "SN",
+    "name": "新湊",
+    "latitude": 36.78333333333333,
+    "longitude": 137.11666666666667
+  },
+  {
+    "code": "TY",
+    "name": "富山",
+    "latitude": 36.766666666666666,
+    "longitude": 137.21666666666667
+  },
+  {
+    "code": "I7",
+    "name": "生地",
+    "latitude": 36.88333333333333,
+    "longitude": 137.41666666666666
+  },
+  {
+    "code": "T3",
+    "name": "直江津",
+    "latitude": 37.18333333333333,
+    "longitude": 138.25
+  },
+  {
+    "code": "ZC",
+    "name": "柏崎",
+    "latitude": 37.35,
+    "longitude": 138.51666666666668
+  },
+  {
+    "code": "S6",
+    "name": "新潟西港",
+    "latitude": 37.93333333333333,
+    "longitude": 139.06666666666666
+  },
+  {
+    "code": "I5",
+    "name": "新潟東港",
+    "latitude": 37.983333333333334,
+    "longitude": 139.21666666666667
+  },
+  {
+    "code": "ZN",
+    "name": "小木",
+    "latitude": 37.81666666666667,
+    "longitude": 138.28333333333333
+  },
+  {
+    "code": "RZ",
+    "name": "両津",
+    "latitude": 38.083333333333336,
+    "longitude": 138.43333333333334
+  },
+  {
+    "code": "S0",
+    "name": "佐渡",
+    "latitude": 38.31666666666667,
+    "longitude": 138.51666666666668
+  },
+  {
+    "code": "QR",
+    "name": "粟島",
+    "latitude": 38.46666666666667,
+    "longitude": 139.25
+  },
+  {
+    "code": "ZB",
+    "name": "鼠ヶ関",
+    "latitude": 38.56666666666667,
+    "longitude": 139.55
+  },
+  {
+    "code": "S9",
+    "name": "酒田",
+    "latitude": 38.916666666666664,
+    "longitude": 139.81666666666666
+  },
+  {
+    "code": "ZQ",
+    "name": "飛島",
+    "latitude": 39.18333333333333,
+    "longitude": 139.55
+  },
+  {
+    "code": "S1",
+    "name": "秋田",
+    "latitude": 39.75,
+    "longitude": 140.06666666666666
+  },
+  {
+    "code": "S2",
+    "name": "船川港",
+    "latitude": 39.916666666666664,
+    "longitude": 139.85
+  },
+  {
+    "code": "ZI",
+    "name": "男鹿",
+    "latitude": 39.95,
+    "longitude": 139.7
+  },
+  {
+    "code": "FK",
+    "name": "深浦",
+    "latitude": 40.65,
+    "longitude": 139.93333333333334
+  }
+]

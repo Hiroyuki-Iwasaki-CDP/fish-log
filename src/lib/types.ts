@@ -1,0 +1,10 @@
+export type Coordinates = { latitude: number; longitude: number; accuracy?: number };
+export type Spot = { id: string; name: string; latitude: number; longitude: number; radius_m: number; note: string; created_at: string };
+export type Session = { id: string; started_at: string; ended_at: string | null; spot_id: string | null; title: string; note: string; created_at: string };
+export type Weather = { temperature_c: number | null; wind_speed_ms: number | null; wind_direction_deg: number | null; pressure_hpa: number | null; weather_code: number | null; source: string };
+export type Tide = { station_code: string; station_name: string; distance_km: number; height_cm: number | null; state: 'rising' | 'falling' | 'slack' | null; previous_extreme: TideExtreme | null; next_extreme: TideExtreme | null; source: string };
+export type TideExtreme = { at: string; height_cm: number; kind: 'high' | 'low' };
+export type Moon = { age_days: number; phase: string; illumination: number };
+export type Snapshot = { coordinates: Coordinates | null; spot_name: string | null; weather: Weather | null; tide: Tide | null; moon: Moon; collected_at: string; warnings: string[] };
+export type Catch = { id: string; caught_at: string; created_at: string; species: string; length_cm: number | null; weight_g: number | null; count: number; spot_id: string | null; session_id: string | null; note: string; photo_path: string | null; snapshot: Snapshot };
+export type Data = { spots: Spot[]; sessions: Session[]; catches: Catch[] };
