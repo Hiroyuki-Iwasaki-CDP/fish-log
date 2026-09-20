@@ -40,7 +40,8 @@ export async function GET(request: NextRequest) {
     const height_cm = Number.isFinite(current) && Number.isFinite(next) ? Math.round(current + (next - current) * fraction) : null;
     const slope = next - current;
     const state = !Number.isFinite(slope) ? null : Math.abs(slope) < 2 ? 'slack' : slope > 0 ? 'rising' : 'falling';
-    const sorted = line.extremes.sort((a, b) => a.at.localeCompare(b.at));
+    const adjacent = [-1, 1].flatMap(offset => { const day = new Date(at.getTime() + offset * 86400000); return lines.map(x => parseLine(x, day)).find(Boolean)?.extremes ?? []; });
+    const sorted = [...line.extremes, ...adjacent].sort((a, b) => a.at.localeCompare(b.at));
     return NextResponse.json({ station_code: station.code, station_name: station.name, distance_km, height_cm, state, previous_extreme: [...sorted].reverse().find(x => x.at <= at.toISOString()) ?? null, next_extreme: sorted.find(x => x.at > at.toISOString()) ?? null, source: 'JMA predicted tide table (hourly interpolation)' });
   } catch { return NextResponse.json({ station_code: station.code, station_name: station.name, distance_km, height_cm: null, state: null, previous_extreme: null, next_extreme: null, source: 'JMA unavailable' }); }
 }
